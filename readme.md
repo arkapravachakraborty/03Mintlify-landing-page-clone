@@ -1,8 +1,8 @@
-# Professional Resume using HTML
+# Mintlify Landing Page using HTML
 
 Here is a Clone of the landing page of the Mintlify by using only HTML and CSS.
 
-# Live link of the Resume
+# Live link of the Landing Page
 [Click Here to see the landing page Live Demo](https://03-mintlify-landing-page-clone.vercel.app/)
 
 # Images of Landing Page
