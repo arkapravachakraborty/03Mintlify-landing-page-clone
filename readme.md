@@ -1,4 +1,4 @@
-# Mintlify Landing Page using HTML
+# Mintlify Landing Page Clone using HTML and CSS
 
 Here is a Clone of the landing page of the Mintlify by using only HTML and CSS.
 
